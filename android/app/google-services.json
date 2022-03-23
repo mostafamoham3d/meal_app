@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "3028990413",
+    "project_id": "meal-project-a3799",
+    "storage_bucket": "meal-project-a3799.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3028990413:android:4c78a050e9af60d7a5ac84",
+        "android_client_info": {
+          "package_name": "com.example.meal_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3028990413-4gbbvutu0badqk7m1vg6hbu5u898asr8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meal_app",
+            "certificate_hash": "44573a44470d95013ba7516a3919b2267f24b2fd"
+          }
+        },
+        {
+          "client_id": "3028990413-b1sql15gdbtplv0dhug0i05ec5f1srfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfnL96JUbaCg2fKyBEcFCVeikv_Tu9hQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3028990413-b1sql15gdbtplv0dhug0i05ec5f1srfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
